@@ -24,7 +24,7 @@ The objective is **research and learning**, not operational use.
 
 ## 🧠 Technical Highlights
 
-### 🥷 Indirect Native API Calls ("Ninja Mode")
+###  Indirect Native API Calls ("Ninja Mode")
 
 Instead of relying on common Win32 APIs that are frequently monitored or hooked by EDR solutions, Scryfx interfaces directly with the Native API:
 
